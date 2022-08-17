@@ -6,7 +6,7 @@
 
 A student of North South University. Want to lean towards real life experience with a definite mind set.
 
-Skills: REACT / JS / HTML / CSS/JavaScript/Database/ 
+Skills: REACT / JS / HTML / CSS/JavaScript/Database
 
 - 🔭 I’m currently working on React project 
 - 🌱 I’m currently learning React JS 
