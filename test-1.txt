@@ -11,3 +11,4 @@ I'm becoming homesick
 main
  
 Hudai pera khacchi.
+Pattern issue solved by using tools
